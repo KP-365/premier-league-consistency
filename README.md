@@ -1,8 +1,7 @@
 # Premier League Goal Scraper
 
 Pulls every Premier League match and every goal scorer for a season using
-ESPN's public (undocumented) endpoints — no API key, no LLM guesswork,
-no £30 in tokens.
+ESPN's public (undocumented) endpoints
 
 ## Quick start
 
