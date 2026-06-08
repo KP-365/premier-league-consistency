@@ -15,6 +15,8 @@ Custom web scraper built against ESPN to extract:
 
 Data stored across three CSVs: `matches.csv`, `goals.csv`, `appearances.csv`, joined on `event_id` and scorer identifiers.
 
+Code found in [premier_league_scraper.py](https://github.com/KP-365/premier-league-consistency/blob/main/premier_league_scraper.py)
+
 ## Methodology
 
 1. Compute goals per 90 minutes (g90) for all players with 5+ goals
